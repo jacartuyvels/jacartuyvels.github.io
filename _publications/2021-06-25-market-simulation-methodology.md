@@ -5,7 +5,7 @@ permalink: /publication/2021-06-25-tech-report-market-simulation-methodology
 excerpt: ''
 date: 2021-06-25
 venue: ''
-paperurl: 'http://academicpages.github.io/files/Preliminary_CREG_Report.pdf'
+paperurl: 'http://jacartuyvels.github.io/files/Preliminary_CREG_Report.pdf'
 citation: 'Cartuyvels, Jacques and Papavasiliou, Anthony (2021). &quot;A Market Simulation Methodology for the Calibration of ORDC&quot;'
 ---
 
